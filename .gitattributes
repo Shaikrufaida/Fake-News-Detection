@@ -1,0 +1,2 @@
+Fakenewsdetection/Fake.csv filter=lfs diff=lfs merge=lfs -text
+Fakenewsdetection/True.csv filter=lfs diff=lfs merge=lfs -text
